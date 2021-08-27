@@ -11,18 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Interests"
       section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: timeline
-    - title: "Team"
+    - title: "About me"
       section: team
+    - title: "Publications"
+      section: portfolio
+    - title: "CV"
+      section: timeline
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Specimen Stories"
+      url: /specimenstories
 en-US:
   <<: *DEFAULT_EN
 en-CA:

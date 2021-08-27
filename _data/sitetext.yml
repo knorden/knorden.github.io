@@ -11,63 +11,59 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome!
+    text: Klara K. Nordén
+    section: PhD Candidate, Princeton University
+    button: Interests
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Interests"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Iridescence"
+        desc: "Iridescent colors produce some of the most stunning color effects known in nature, such as the metallic  blue feathers of a peacock. In my research, I try to understand how iridescent colors are produced in nature through nanoscale optics."
+        icon:  fas fa-rainbow #find more at https://fontawesome.com/icons
+      - title: "Birds"
+        desc: "Birds are some of the most colorful vertebrates on the planet, and they exhibit an extraordinary diversity of iridescent nanostructures in their feathers. By studying the plumage of iridescent birds, I can ask questions about the function and evolution of iridescence."
+        icon: fas fa-feather-alt
+      - title: "Science communication"
+        desc: "I am passionate about science communication, and have talked about my research to a broad range of audiences. I also produce a podcast about the science of natural history collections, and am active in science outreach and education initiatives at my university and at nearby museums."
+        icon: fas fa-microscope
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Publications"
+    text: "A sample of my most recent work"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
-    text: "Lorem ipsum timeline"
+    title: "Brief CV"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Spyken <br>Lund, Sweden"
+        year: "2010-2012"
+        desc: "Gymnasium (high school)"
+        image: assets/img/timeline/img1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "University of Bristol <br> Bristol, UK"
+        year: "2013-2017"
+        desc: "MSci Palaeontology and Evolution"
+        image: assets/img/timeline/img2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Princeton University <br> Princeton, USA"
+        year: "2019-2023"
+        desc: "PhD Candidate"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
         # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
+        align: left
+    end: "Click here <br> to see my full <br> CV"
+    url: /Klara_Norden_CV.pdf
   about:
     title: "About Us"
     text: "our story"
@@ -75,81 +71,62 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    max-height: 100px
+    max-height: 70px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
+      - title: "Stoddard Lab"
+        url: https://www.marycstoddard.com/
+        logo: assets/img/clients/StoddardLab7.png
+      - title: "EEB"
+        url: https://eeb.princeton.edu/
+        logo: assets/img/clients/Princeton_EEB.png
+      - title: "orcid"
+        url: https://orcid.org/0000-0003-0810-5280
+        logo: assets/img/clients/orcid.png
+      - title: "Google Scholar"
+        url: https://scholar.google.se/citations?user=kFz0apUAAAAJ&hl=en&oi=ao
+        logo: assets/img/clients/google.png
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "About me"
+    text: I am a PhD candidate at the [Department of Ecology and Evolutionary Biology](https://eeb.princeton.edu), Princeton University, USA. My research focuses on the evolution and function of iridescent colors in bird feathers. Iridescent colors create some of the most vibrant displays known in the animal world, and are incredibly widespread - yet we know very little about their function and evolution. How do birds produce iridescent colors? How did complex iridescent nanostructures evolve in feathers? What are the functions of iridescent colors in birds? To answer these questions, I use an interdisciplinary approach combining optical modelling, chemical analysis, imaging, microscopy, and evolutionary phylogenetic methods. Much of my research is conducted in natural history collections, and I run a podcast with the aim to advocate for the importance of biodiversity collections. I also engage in science outreach more broadly whenever I get the chance - which to me is one of the most rewarding parts of being a scientist.
+    subtext: 
     section: team
+    aling: left
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Klara Nordén"
+        role: "PhD candidate"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: mailto:knorden@princeton.edu
+            icon: far fa-envelope
+          - url: https://scholar.google.se/citations?user=kFz0apUAAAAJ&hl=en&oi=ao
+            icon: fab fa-google
+          - url: https://twitter.com/KlaraNorden
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+        
+  #contact:
+    #title: "Contact me"
+    #text: "Lorem ipsum or call 123456789"
+   # section: contact
+    #name: "Name*"
+    #name-validation: "Please enter your name."
+    #email: "Email*"
+    #email-validation: "Please enter your email address."
+   # phone: "Phone Number"
+    #phone-validation: "Please enter your phone number."
+   # message: "Message*"
+   # message-validation: "Please enter a message."
+   # subject: "Contact Form Submission"
+  #  submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    date: "Last updated: 25 August 2021"
+    legal:
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
       - url: https://facebook.com
-        icon: "fab fa-facebook-f"
+        icon: "fab fa-orcid"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
