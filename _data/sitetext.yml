@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Iridescence"
-        desc: "Iridescent colors produce some of the most stunning color effects known in nature, such as the metallic  blue feathers of a peacock. In my research, I try to understand how iridescent colors are produced in nature through nanoscale optics."
+        desc: "Iridescent colors produce some of the most stunning colors known in nature, such as the metallic  blue feathers of a peacock. In my research, I try to understand the optics of the nanoscale structures in bird feathers that produce iridescence."
         icon:  fas fa-rainbow #find more at https://fontawesome.com/icons
       - title: "Birds"
         desc: "Birds are some of the most colorful vertebrates on the planet, and they exhibit an extraordinary diversity of iridescent nanostructures in their feathers. By studying the plumage of iridescent birds, I can ask questions about the function and evolution of iridescence."
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
       - title: "Princeton University <br> Princeton, USA"
         year: "2019-2023"
         desc: "PhD Candidate"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/Klara_alps.jpg
         alt: image alt text
         # you can enforce the alignment
         align: left
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
     people:
       - name: "Klara Nordén"
         role: "PhD candidate"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/KlaraNorden.jpg
         social:
           - url: mailto:knorden@princeton.edu
             icon: far fa-envelope

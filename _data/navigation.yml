@@ -19,8 +19,8 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "CV"
       section: timeline
-    - title: "Contact"
-      section: contact
+    #- title: "Contact"
+     # section: team
     - title: "Specimen Stories"
       url: /specimenstories
 en-US:

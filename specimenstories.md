@@ -36,7 +36,7 @@ How do you evolve to have the entire right side of your face moving to the left 
 <br>
 ![alt text for screen readers](/assets/img/specimenstories/bell_museum.jpg "Prof. Kory Evans at the Bell Museum of Natural History")
 ![alt text for screen readers](/assets/img/specimenstories/flatfish.jpg "Close-up of a flatfish face (by Natural England/Tom Daguerre CC-BY-NC-ND 2.0")
-![alt text for screen readers](/assets/img/specimenstories/flatfish_skull.jpg "Close-up of a flatfish face (by Natural England/Tom Daguerre CC-BY-NC-ND 2.0")
+![alt text for screen readers](/assets/img/specimenstories/flatfish_skull.jpg "CT-scan of a flatfish skull (by Kory Evans)")
 From left to right: _Prof. Kory Evans at work in the ichthyology collections of the Bell Museum of Natural History; the asymmetric face of a flatfish (by Natural England/Tom Daguerre [CC-BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)); CT-scanned skull of a flatfish (by Kory Evans)._ <br>
 
 If you want to look at some of the diversity of fish skulls yourself, head over to the collection of fish CT scans at [morphosource.org](https://www.morphosource.org/projects/00000C220?utf8=%E2%9C%93&m_pub_status=&m_media_type=&m_organization=#media), part of an ambitious project to #ScanAllFishes.
