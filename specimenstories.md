@@ -15,6 +15,7 @@ background: grey
 </section>
 
 **EPISODE 1 | SUPER-BLACK FEATHERS with DAKOTA McCOY** <br>
+<iframe src="https://anchor.fm/klara-norden/embed/episodes/1--Super-black-feathers-with-Dakota-McCoy-e16hqj6/a-a6e2fog" height="153px" width="600px" frameborder="0" scrolling="no"></iframe> <br>
 Super-black materials are blacker than black - they are so good at capturing light that almost no light escapes them. While a normal black object still reflects some light, which allows you to see the shape of the object, super-black objects appear almost shapeless. You can see this effect clearly in the image of Vantablack below, which is a human-made super-black material. But how do birds produce super-black colors? And why do they produce them? What can engineers learn from nature’s way of making super-black? To answer these questions, I talk to [Dakota (Cody) McCoy](https://www.codymccoy.com/), who discovered super-black bird plumage while being a student at Yale University. Cody is currently a postdoctoral researcher at Stanford University, and she’s interested in how nature have come up with clever ways to modify light, and what we can learn from nature in developing new materials.<br/>
 
 ![alt text for screen readers](/assets/img/specimenstories/codymccoy.png "Dakota McCoy")
@@ -32,6 +33,7 @@ If you want to take a deeper dive into super-black plumage, check out Cody and c
 <br/><br/>
 
 **EPISODE 2 | WEIRD AND WONDERFUL FISH with KORY EVANS** <br>
+<iframe src="https://anchor.fm/klara-norden/embed/episodes/2--Weird-and-wonderful-fish-with-Kory-Evans-e16hqsf/a-a6e2hen" height="153px" width="600px" frameborder="0" scrolling="no"></iframe> <br>
 How do you evolve to have the entire right side of your face moving to the left side? Seems like a pretty outlandish thing to do - but the humble flatfish achieves just that feat during its lifespan. In this episode, I talk to [Kory Evans](https://koryevans.weebly.com/), Assistant Professor at Rice University, to learn much more about how strange fish skulls evolve, and what this can tell us more broadly about how extraordinary lifeforms evolve. I promise, you will want to take a closer look at fish after this episode!
 <br>
 ![alt text for screen readers](/assets/img/specimenstories/bell_museum.jpg "Prof. Kory Evans at the Bell Museum of Natural History")
@@ -46,8 +48,8 @@ Learn more about the evolution of flatfish in Kory and colleagues' paper:<br>
 
 <br/><br/>
 
-<iframe src="https://anchor.fm/klara-norden/embed/episodes/3--Foraminifera---tiny-time-machines-of-the-ocean-with-Marina-Rillo-e16hr2p/a-a6e2icj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-**EPISODE 2 | FORAMINIFERA - TINY TIME MACHINES OF THE OCEAN with MARINA RILLO** <br>
+**EPISODE 3 | FORAMINIFERA - TINY TIME MACHINES OF THE OCEAN with MARINA RILLO** <br>
+<iframe src="https://anchor.fm/klara-norden/embed/episodes/3--Foraminifera---tiny-time-machines-of-the-ocean-with-Marina-Rillo-e16hr2p/a-a6e2icj" height="153px" width="600px" frameborder="0" scrolling="no"></iframe> <br>
 How do we know what the climate was like thousands or even millions of years ago? We would need some kind of record of what the planet was like in the past. Ideally, we'd want a record with not only high temporal resolution - showing the changes year by year - but also with wide geographical scope, showing changes not only in one place, but globally. It turns out that an obscure microscopic sea organism can provide just that for us - foraminiferans. In this episode, I talk to [Marina Rillo](https://mcrillo.github.io/), who is a postdoctoral researcher at the University of Oldenburg in Germany. Marina use modern and historical collections of foraminifera to study how ecosystems in the oceans have changed through time, and what we can learn from this in predicting future changes.<br>
 ![alt text for screen readers](/assets/img/specimenstories/marina_rillo_small.jpg "Dr. Marina Rillo on the marine expedition FORAMFLUX")
 ![alt text for screen readers](/assets/img/specimenstories/forams.jpg "Foraminifera, by Alain Couette, CC-BY-SA 3.0")
