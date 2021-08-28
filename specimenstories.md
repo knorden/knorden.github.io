@@ -46,6 +46,7 @@ Learn more about the evolution of flatfish in Kory and colleagues' paper:<br>
 
 <br/><br/>
 
+<iframe src="https://anchor.fm/klara-norden/embed/episodes/3--Foraminifera---tiny-time-machines-of-the-ocean-with-Marina-Rillo-e16hr2p/a-a6e2icj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 **EPISODE 2 | FORAMINIFERA - TINY TIME MACHINES OF THE OCEAN with MARINA RILLO** <br>
 How do we know what the climate was like thousands or even millions of years ago? We would need some kind of record of what the planet was like in the past. Ideally, we'd want a record with not only high temporal resolution - showing the changes year by year - but also with wide geographical scope, showing changes not only in one place, but globally. It turns out that an obscure microscopic sea organism can provide just that for us - foraminiferans. In this episode, I talk to [Marina Rillo](https://mcrillo.github.io/), who is a postdoctoral researcher at the University of Oldenburg in Germany. Marina use modern and historical collections of foraminifera to study how ecosystems in the oceans have changed through time, and what we can learn from this in predicting future changes.<br>
 ![alt text for screen readers](/assets/img/specimenstories/marina_rillo_small.jpg "Dr. Marina Rillo on the marine expedition FORAMFLUX")
