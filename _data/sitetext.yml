@@ -58,7 +58,7 @@ en: &DEFAULT_EN
       - title: "Princeton University <br> Princeton, USA"
         year: "2019-2023"
         desc: "PhD Candidate"
-        image: assets/img/timeline/Klara_birdroom.jpg
+        image: assets/img/timeline/klara_birdroom.jpg
         alt: image alt text
         # you can enforce the alignment
         align: left
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
     people:
       - name: "Klara Nordén"
         role: "PhD candidate"
-        image: assets/img/team/klara_pheasant_cropped.jpg
+        image: assets/img/team/klara_pheasant_cropped2.jpg
         social:
           - url: mailto:knorden@princeton.edu
             icon: far fa-envelope
