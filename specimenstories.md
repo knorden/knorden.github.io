@@ -8,7 +8,7 @@ background: grey
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">Specimen Stories</h2>
-        <h3 class="section-subheading text-muted">Have you ever wondered what secrets lurk in the basement of a natural history museum? Museums around the world are the keepers of vast natural history collections with millions of specimens, ranging from fish in jars, to mammal skeletons and dinosaur fossils. The majority of these specimens are not on display, but form an invaluable resource to researchers. But what exactly can we learn from natural history collections? What stories do the specimens tell us? In this podcast, I talk to the scientists working in collections, and explore some of the amazing and surprising science they discovered.  </h3>
+        <h3 class="section-subheading text-muted">Have you ever wondered what secrets lurk in the basement of a natural history museum? Museums around the world are the keepers of vast natural history collections with millions of specimens, ranging from fish in jars, to mammal skeletons and dinosaur fossils. The majority of these specimens are not on display, but form an invaluable resource to researchers. But what exactly can we learn from natural history collections? What stories do the specimens tell us? In this podcast, I talk to the scientists working in collections, and explore some of the amazing and surprising science they discovered.  <br> Listen on Spotify, Apple podcasts or Google podcasts.  </h3>
       </div>
     </div>
   </div>
