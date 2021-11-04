@@ -64,3 +64,26 @@ The papers we discuss in the podcast can be found here:<br>
 [Endless Forams: >34,000 Modern Planktonic Foraminiferal Images for Taxonomic Training and Automated Species Recognition Using Convolutional Neural Networks](https://doi.org/10.1029/2019PA003612)<br>
 [Intraspecific size variation in planktonic foraminifera cannot be consistently predicted by the environment](https://doi.org/10.1002/ece3.6792)
 
+<br/><br/>
+
+**EPISODE 4 | FLUTTERING MIGRATIONS with MICAH FREEDMAN** <br>
+<iframe src="https://anchor.fm/klara-norden/embed/episodes/3--Foraminifera---tiny-time-machines-of-the-ocean-with-Marina-Rillo-e16hr2p/a-a6e2icj" height="153px" width="600px" frameborder="0" scrolling="no"></iframe> <br>
+Fall is upon us and it is high time for many animals to be on the move. Millions of birds migrate south each fall. But another animal currently migrating is the monarch butterfly. The monarch butterflies migrate over 2000 kilometers every fall to reach their wintering grounds in Mexico. It's an astonishing journey for an insect. But not all monarchs migrate. Some populations stay cosy and warm year round on tropical islands in the Pacific ocean. How did these monarchs end up there? And how did they loose their ability to migrate? [Micah Freedman](https://micahfreedman.github.io/), who is currently a postdoctoral researcher at the University of Chicago, realized that museum collections of monarchs could give us unique insights into these questions. In this episode, I talk to Micah about his research on monarchs, why they migrate, and how and why some monarchs lost migration altogether. <br>
+![alt text for screen readers](/assets/img/specimenstories/micah.jpg "Dr. Micah Freedman, by Micah Freedman")
+![alt text for screen readers](/assets/img/specimenstories/monarch.jpg "Monarch butterfly on milkweed, by Micah Freedman")
+![alt text for screen readers](/assets/img/specimenstories/BMNHE_1084125_53265.jpg "Monarch museum specimen, from the London Natural History Museum, CC0-1.0, ")<br>
+From left to right: _Dr. Micah Freedman holding a monarch; monarch butterfly in Guam feeding on a tropical milkweed species (by Micah Freedman); a monarch specimen held at the London Natural History Museum (by [NHM](https://data.nhm.ac.uk/object/ae4b540a-ffac-4f89-a81a-afeac4186533/1635984000000), CC0-1.0) Monarchs sometimes get blown over to the UK by storms - but don't survive as there is no milkweed for them to eat._ 
+
+To learn more about Micah’s research, check out the papers we discussed in the podcast:
+[Two centuries of monarch butterfly collections reveal contrasting effects of range expansion and migration loss on wing traits](https://www.pnas.org/content/117/46/28887.full)
+[Wing morphology in migratory North American monarchs: characterizing sources of variation and understanding changes through time](https://www.degruyter.com/document/doi/10.1515/ami-2018-0003/html)
+[Non-migratory monarch butterflies, Danaus plexippus (L.), retain developmental plasticity and a navigational mechanism associated with migration](https://academic-oup-com/biolinnean/article/123/2/265/4769831)
+[Are eastern and western monarch butterflies distinct populations? A review of evidence for ecological, phenotypic, and genetic differentiation and implications for conservation](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.432)
+
+You can follow the monarchs migration live on a map built by the organisation [Journey North](https://journeynorth.org/monarchs), which is based on citizen scientist reports of monarchs. If you happen to live where there are monarchs, you can also report your own sightings here! A similar program for monarchs on the West Coast is [Western Monarch Milkweed Mapper](https://www.monarchmilkweedmapper.org/).
+
+Another way to get involved in monarch research is through the program [MonarchWatch](https://www.monarchwatch.org), which tags hundreds of monarchs each year to learn about their movements. This is also an excellent source of information on monarchs. 
+
+
+
+
