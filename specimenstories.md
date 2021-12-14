@@ -85,5 +85,26 @@ You can follow the monarchs migration live on a map built by the organisation [J
 Another way to get involved in monarch research is through the program [MonarchWatch](https://www.monarchwatch.org), which tags hundreds of monarchs each year to learn about their movements. This is also an excellent source of information on monarchs. 
 
 
+**EPISODE 5 | A FROG'S EYE VIEW OF THE WORLD- with KATE THOMAS** <br>
+<iframe src="https://anchor.fm/klara-norden/embed/episodes/3--Foraminifera---tiny-time-machines-of-the-ocean-with-Marina-Rillo-e16hr2p/a-a6e2icj" height="153px" width="800px" frameborder="0" scrolling="no"></iframe> <br>
+There is a saying that someone is "eagle-eyed" if they spot minute details - and if I asked you to name an animal with good eyesight, you'd probably think of an owl or an eagle. But in this episode we'll hear that the largest relative eye size of any vertebrate is found in an entirely different group of animals - frogs and toads. [Kate Thomas](http://www.kate-thomas.com/), who is a postdoctoral researcher at the Natural History Museum in London, surveyed eye size in hundreds of frogs and toads and asked how eye size has evolved in this diverse group. Why do frogs and toads have such large eyes? How does eye size affect vision in the first place? And did you know that many frogs can see colors in the dark?.<br>
+![alt text for screen readers](/assets/img/specimenstories/kate_thomas.jpg "Dr. Kate Thomas")
+![alt text for screen readers](/assets/img/specimenstories/nhm.jpg "The Natural History Museum in London, image by Kate Thomas")
+![alt text for screen readers](/assets/img/specimenstories/specimen.jpg "A frog specimen in the NHM collection, image by Kate Thomas")
+![alt text for screen readers](/assets/img/specimenstories/treefrog.jpg "Many frogs have very large eyes relative to their body size")<br>
+From left to right: _Dr. Kate Thomas with a frog friend; the Natural History Museum in London, where Katie collected data on frog specimens; a frog specimen from the 1800s - just one of many hundreds kept in the herpetology collections at NHM; large eye size (relative to body size) is common in frogs and toads, such as this tree frog._ 
+
+Check out two of Katie's favourite frogs - the mighty rain frog (left), and the fierce Budgett's frog (right) .<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBxn56l9WcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fA_On8rqtP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The paper we discuss in the podcast can be found here:<br>
+[Eye size and investment in frogs and toads correlate with adult habitat, activity pattern and breeding ecology](https://doi.org/10.1098/rspb.2020.1393)<br>
+
+...and if you're more curious about frog vision - check out some of the other cool papers by Katie and collaborators that we didn't have time to talk about in the podcast:<br>
+[Diversity and evolution of amphibian pupil shapes](https://www.biorxiv.org/content/10.1101/2021.08.15.456426v1.abstract)<br>
+[Eye‐body allometry across biphasic ontogeny in anuran amphibians](https://link.springer.com/article/10.1007/s10682-021-10102-3)<br>
+[Genomic and Spectral Visual Adaptation in Southern Leopard Frogs during the Ontogenetic Transition from Aquatic to Terrestrial Light Environments](https://www.biorxiv.org/content/10.1101/2021.02.19.432049v1.abstract)
 
 
