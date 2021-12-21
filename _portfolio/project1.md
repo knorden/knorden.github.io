@@ -11,4 +11,4 @@ caption:
 ---
 The remarkable diversity of color in nature remains largely unexplained. Recent studies on birds show how historical reconstructions, the identification of genes affecting color differences, and an increased understanding of the underlying developmental mechanisms are helping to explain why species are the color they are. In this paper, we draw on two recent examples - a hybrid manakin species and the genetics of carotenoid coloration - to highlight the importance of historical contingency in color evolution.
 
-[Read the full paper here](https://doi.org/10.1016/j.tree.2018.05.003)
+[Published in Trends in Ecology and Evolution](https://doi.org/10.1016/j.tree.2018.05.003)
