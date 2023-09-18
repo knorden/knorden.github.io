@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     - title: "Specimen Stories"
       url: /specimenstories
     - title: "PhD Thesis"
-      url: assets/Klara_Norden_CV.pdf  
+      url: /Klara_Norden_CV.pdf  
 en-US:
   <<: *DEFAULT_EN
 en-CA:
