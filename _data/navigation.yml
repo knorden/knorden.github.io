@@ -23,6 +23,8 @@ en: &DEFAULT_EN
      # section: team
     - title: "Specimen Stories"
       url: /specimenstories
+    - title: "PhD Thesis"
+      url: assets/Klara_Norden_CV.pdf  
 en-US:
   <<: *DEFAULT_EN
 en-CA:
