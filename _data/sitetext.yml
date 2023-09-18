@@ -22,12 +22,12 @@ en: &DEFAULT_EN
     text: ""
     section: services
     list:
-      - title: "Iridescence"
-        desc: "Iridescent colors produce some of the most stunning colors known in nature, such as the metallic  blue feathers of a peacock. In my research, I try to understand the optics of the nanoscale structures in bird feathers that produce iridescence."
-        icon:  fas fa-rainbow #find more at https://fontawesome.com/icons
-      - title: "Birds"
-        desc: "Birds are some of the most colorful vertebrates on the planet, and they exhibit an extraordinary diversity of iridescent nanostructures in their feathers. By studying the plumage of iridescent birds, I can ask questions about the function and evolution of iridescence."
-        icon: fas fa-feather-alt
+      - title: "Biodiversity"
+        desc: "A core theme uniting my research is understanding the diversity of life on Earth. I have explored this in deep time, researching ecosystem turnover in dinosaur ecosystems, as well as in the present, studying the evolution of plumage colors in birds."
+        icon:  fa earth-americas #find more at https://fontawesome.com/icons
+      - title: "Structural color"
+        desc: "Some of the most vibrant colors in nature, such as the metallic blue of a peacock, are built with microscopic structures that interact with light to produce color. I study the evolution of structural colors in feathers, using a combination of optics, sensory ecology and evolutionary biology."
+        icon: fas fa-rainbow
       - title: "Science communication"
         desc: "I am passionate about science communication, and have talked about my research to a broad range of audiences. I also produce a podcast about the science of natural history collections, and am active in science outreach and education initiatives at my university and at nearby museums."
         icon: fas fa-microscope
@@ -88,7 +88,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/google.png
   team:
     title: "About me"
-    text: I am a PhD candidate at the [Department of Ecology and Evolutionary Biology](https://eeb.princeton.edu), Princeton University, USA. My research focuses on the evolution and function of iridescent colors in bird feathers. Iridescent colors create some of the most vibrant displays known in the animal world, and are incredibly widespread - yet we know very little about their function and evolution. How do birds produce iridescent colors? How did complex iridescent nanostructures evolve in feathers? What are the functions of iridescent colors in birds? To answer these questions, I use an interdisciplinary approach combining optical modelling, chemical analysis, imaging, microscopy, and evolutionary phylogenetic methods. Much of my research is conducted in natural history collections, and I run a podcast with the aim to advocate for the importance of biodiversity collections. I also engage in science outreach more broadly whenever I get the chance - which to me is one of the most rewarding parts of being a scientist.
+    text: I am an experienced researcher with expertise across three fields intersecting biodiversity - evolutionary biology, ecology, and paleontology. I have managed and funded several research projects from start to finish, built interdisciplinary and international collaborations, and developed strong skills in data collection, analysis and presentation. As an interdisciplinary scientist, I am particularly good at distilling complex problems into key insights and communicating it effectively to a broad range of audiences and stakeholders.
     subtext: 
     section: team
     aling: left
