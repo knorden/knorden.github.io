@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     list:
       - title: "Biodiversity"
         desc: "A core theme uniting my research is understanding the diversity of life on Earth. I have explored this in deep time, researching ecosystem turnover in dinosaur ecosystems, as well as in the present, studying the evolution of plumage colors in birds."
-        icon:  fa fa-earth-europe #find more at https://fontawesome.com/icons
+        icon:  fas fa-earth-europe fa-sm #find more at https://fontawesome.com/icons
       - title: "Structural color"
         desc: "Some of the most vibrant colors in nature, such as the metallic blue of a peacock, are built with microscopic structures that interact with light to produce color. I study the evolution of structural colors in feathers, using a combination of optics, sensory ecology and evolutionary biology."
         icon: fas fa-rainbow

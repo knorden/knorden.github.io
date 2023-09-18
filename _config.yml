@@ -17,7 +17,7 @@ url    : "https://knorden.github.io" # the base hostname & protocol for your sit
 baseurl: "" # the subpath of your site, e.g. /blog
 repository: "knorden/knorden.github.io"
 title      : Klara Nordén
-email      : knorden@princeton.edu #this is also the email contact forms will go to
+email      : klara.norden@gmail.com #this is also the email contact forms will go to
 description: "Site description"
 author     : Klara Nordén
 # logo:     #optional, defaults to site title
