@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Welcome!
     text: Klara K. Nordén
-    section: PhD Candidate, Princeton University
+    section: PhD Ecology and Evolutionary Biology, Princeton University
     button: Interests
     buttonlink: "#services"
 
