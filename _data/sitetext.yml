@@ -130,7 +130,7 @@ en: &DEFAULT_EN
   #  submit: "Send Message"
 
   footer:
-    date: "Last updated: 18 September 2023"
+    date: "Last updated: 28 April 2024"
     legal:
     social:
       - url: https://twitter.com
