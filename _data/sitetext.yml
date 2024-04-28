@@ -28,9 +28,9 @@ en: &DEFAULT_EN
       - title: "Structural color"
         desc: "Some of the most vibrant colors in nature, such as the metallic blue of a peacock, are built with microscopic structures that interact with light to produce color. I study the evolution of structural colors in feathers, using a combination of optics, sensory ecology and evolutionary biology."
         icon: fas fa-rainbow
-      - title: "Science communication"
-        desc: "I am passionate about science communication, and have talked about my research to a broad range of audiences. I also produce a podcast about the science of natural history collections, and am active in science outreach and education initiatives at my university and at nearby museums."
-        icon: fas fa-microscope
+      - title: "Communication"
+        desc: "I am passionate about impactful communication, and find joy in dispilling complex topics into clear and concise insights. I enjoy communicating with a wide range of audiences, from experts to the public. In my free time I produce a science communication podcast about the secret wonders of natural history collections"
+        icon: fas fa-comments
 
   portfolio:
     title: "Publications"
