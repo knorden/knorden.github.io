@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         desc: "Some of the most vibrant colors in nature, such as the metallic blue of a peacock, are built with microscopic structures that interact with light to produce color. I study the evolution of structural colors in feathers, using a combination of optics, sensory ecology and evolutionary biology."
         icon: fas fa-rainbow
       - title: "Communication"
-        desc: "I am passionate about impactful communication, and find joy in distilling complex topics into clear and concise insights. I enjoy communicating with a wide range of audiences, from experts to the public. In my free time I produce a science communication podcast about the secret wonders of natural history collections."
+        desc: "I am passionate about impactful communication and find joy in distilling complex topics into clear and concise insights. I enjoy communicating with a wide range of audiences, from experts to the public. In my free time I produce a [science communication podcast](http://klaranorden.com/specimenstories) about the secret wonders of natural history collections."
         icon: fas fa-comments
 
   portfolio:
