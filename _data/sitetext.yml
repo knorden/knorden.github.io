@@ -40,15 +40,20 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Brief CV"
-    text: ""
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Lib4RI <br>Zürich, Switzerland"
         year: "2024-present"
-        desc: "Project manager in open science & data management"
+        desc: "Project manager in open science <br> & data management"
         image: assets/img/timeline/Lib4RI.jpg
+        alt:
+      - title: "European Commission <br>Brussels, Belgium"
+        year: "2023"
+        desc: "Intern at European Research Council Executive Agency"
+        image: assets/img/timeline/European_Research_Council_logo.png
         alt:
       - title: "Princeton University <br> Princeton, USA"
         year: "2019-2023"
