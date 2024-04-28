@@ -45,21 +45,26 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Spyken <br>Lund, Sweden"
-        year: "2010-2012"
-        desc: "Gymnasium (high school)"
-        image: assets/img/timeline/img1.jpg
-        alt:
-      - title: "University of Bristol <br> Bristol, UK"
-        year: "2013-2017"
-        desc: "MSci Palaeontology and Evolution"
-        image: assets/img/timeline/img2.jpg
+      - title: "Lib4RI <br>Zürich, Switzerland"
+        year: "2024-present"
+        desc: "Project manager in open science & data management"
+        image: assets/img/timeline/Lib4RI.jpg
         alt:
       - title: "Princeton University <br> Princeton, USA"
         year: "2019-2023"
         desc: "PhD Ecology and Evolutionary Biology"
         image: assets/img/timeline/klara_birdroom.jpg
         alt: image alt text
+      - title: "University of Bristol <br> Bristol, UK"
+        year: "2013-2017"
+        desc: "MSci Palaeontology and Evolution"
+        image: assets/img/timeline/img2.jpg
+        alt:
+      - title: "Spyken <br>Lund, Sweden"
+        year: "2010-2012"
+        desc: "Gymnasium (high school)"
+        image: assets/img/timeline/img1.jpg
+        alt:
         # you can enforce the alignment
         align: left
     end: "Click here <br> to see my full <br> CV"
@@ -74,12 +79,12 @@ en: &DEFAULT_EN
     max-height: 70px
     horizontal-scrolling: "" #"yes/no"
     list:
+      - title: "Lib4RI"
+        url: https://www.lib4ri.ch/
+        logo: assets/img/clients/Lib4RI_Logos.png
       - title: "Stoddard Lab"
         url: https://www.marycstoddard.com/
         logo: assets/img/clients/StoddardLab7.png
-      - title: "EEB"
-        url: https://eeb.princeton.edu/
-        logo: assets/img/clients/Princeton_EEB.png
       - title: "orcid"
         url: https://orcid.org/0000-0003-0810-5280
         logo: assets/img/clients/orcid.png

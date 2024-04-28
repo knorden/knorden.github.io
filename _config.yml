@@ -13,12 +13,13 @@
 
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://knorden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://klaranorden.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 repository: "knorden/knorden.github.io"
 title      : Klara Nordén
 email      : klara.norden@gmail.com #this is also the email contact forms will go to
-description: "Site description"
+keywords  : "Klara Norden, research, evolutionary biology, Specimen Stories, communication, project management"
+description: "Personal webpage of Klara Katarina Norden"
 author     : Klara Nordén
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
