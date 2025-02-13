@@ -45,8 +45,13 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Lib4RI <br>Zürich, Switzerland"
+    title: "Ubique Innovation<br>Zürich, Switzerland"
         year: "2024-present"
+        desc: "Project manager/Account manager mobile app development"
+        image: assets/img/timeline/ubique.png
+        alt:
+      - title: "Lib4RI <br>Zürich, Switzerland"
+        year: "2024"
         desc: "Project manager in open science <br> & data management"
         image: assets/img/timeline/Lib4RI.jpg
         alt:
