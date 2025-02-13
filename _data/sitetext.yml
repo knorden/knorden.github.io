@@ -45,7 +45,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-    title: "Ubique Innovation<br>Zürich, Switzerland"
+      - title: "Ubique Innovation<br>Zürich, Switzerland"
         year: "2024-present"
         desc: "Project manager/Account manager mobile app development"
         image: assets/img/timeline/ubique.png
