@@ -103,7 +103,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/google.png
   team:
     title: "About me"
-    text: I am an experienced researcher with expertise across three fields intersecting biodiversity - evolutionary biology, ecology, and paleontology. I have managed and funded several research projects from start to finish, built interdisciplinary and international collaborations, and developed strong skills in data collection, analysis and presentation. As an interdisciplinary scientist, I am particularly good at distilling complex problems into key insights and communicating it effectively to a broad range of audiences and stakeholders.
+    text: I am researcher and project manager with expertise in natural sciences and work experience from both academia and industry. I have managed and funded several research projects from start to finish, built interdisciplinary and international collaborations, and developed strong skills in data collection, analysis and presentation. As an interdisciplinary scientist, I am particularly good at distilling complex problems into key insights and communicating it effectively to a broad range of audiences and stakeholders.
     subtext: 
     section: team
     aling: left
@@ -135,7 +135,7 @@ en: &DEFAULT_EN
   #  submit: "Send Message"
 
   footer:
-    date: "Last updated: 28 April 2024"
+    date: "Last updated: 15 February 2025"
     legal:
     social:
       - url: https://twitter.com
