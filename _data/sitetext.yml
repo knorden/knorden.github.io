@@ -26,8 +26,8 @@ en: &DEFAULT_EN
         desc: "A core theme uniting my research is understanding the diversity of life on Earth. I have explored this in deep time, researching ecosystem turnover in dinosaur ecosystems, as well as in the present, studying the evolution of plumage colors in birds."
         icon:  fas fa-seedling #find more at https://fontawesome.com/icons
       - title: "Data science"
-        desc: "I love breaking down complex problems into core components and analyze them using data. Give me a messy real-world dataset and an interesting problem and I'll generate new insights and find solutions. No data yet? I'll make a plan for what and how we can collect it."
-        icon: fas fa-magnifying-glass-chart
+        desc: "I love breaking down complex problems into core components and analyze them using data. Give me a messy real-world dataset and an interesting problem and I'll generate new insights and find solutions. No data yet? I'll make a plan for the full lifecycle of the analysis - from data collection to implementation."
+        icon: fas fa-gem
       - title: "Communication"
         desc: "I am passionate about impactful communication and find joy in distilling complex topics into clear and concise insights. I enjoy communicating with a wide range of audiences, from experts to the public. In my free time I produce a [science communication podcast](http://klaranorden.com/specimenstories) about the secret wonders of natural history collections."
         icon: fas fa-comments
@@ -135,7 +135,7 @@ en: &DEFAULT_EN
   #  submit: "Send Message"
 
   footer:
-    date: "Last updated: 15 February 2025"
+    date: "Last updated: 25 June 2025"
     legal:
     social:
       - url: https://twitter.com
