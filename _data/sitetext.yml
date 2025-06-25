@@ -25,9 +25,9 @@ en: &DEFAULT_EN
       - title: "Biodiversity"
         desc: "A core theme uniting my research is understanding the diversity of life on Earth. I have explored this in deep time, researching ecosystem turnover in dinosaur ecosystems, as well as in the present, studying the evolution of plumage colors in birds."
         icon:  fas fa-seedling #find more at https://fontawesome.com/icons
-      - title: "Structural color"
-        desc: "Some of the most vibrant colors in nature, such as the metallic blue of a peacock, are built with microscopic structures that interact with light to produce color. I study the evolution of structural colors in feathers, using a combination of optics, sensory ecology and evolutionary biology."
-        icon: fas fa-rainbow
+      - title: "Data science"
+        desc: "I love breaking down complex problems into core components and analyze them using data. Give me a messy real-world dataset and an interesting problem and I'll generate new insights and find solutions. No data yet? I'll make a plan for what and how we can collect it."
+        icon: fas fa-magnifying-glass-chart
       - title: "Communication"
         desc: "I am passionate about impactful communication and find joy in distilling complex topics into clear and concise insights. I enjoy communicating with a wide range of audiences, from experts to the public. In my free time I produce a [science communication podcast](http://klaranorden.com/specimenstories) about the secret wonders of natural history collections."
         icon: fas fa-comments
@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Ubique Innovation<br>Zürich, Switzerland"
-        year: "2024-present"
+        year: "2024-2025"
         desc: "Project manager/Account manager mobile app development"
         image: assets/img/timeline/ubique.jpg
         alt:
@@ -89,9 +89,9 @@ en: &DEFAULT_EN
     max-height: 70px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "Lib4RI"
-        url: https://www.lib4ri.ch/
-        logo: assets/img/clients/Lib4RI_Logos.png
+      - title: "GitHub"
+        url: https://github.com/knorden?tab=overview&from=2025-05-01&to=2025-05-31
+        logo: assets/img/clients/github.png
       - title: "Stoddard Lab"
         url: https://www.marycstoddard.com/
         logo: assets/img/clients/StoddardLab7.png
