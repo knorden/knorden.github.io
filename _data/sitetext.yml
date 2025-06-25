@@ -76,7 +76,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/img1.jpg
         alt:
         # you can enforce the alignment
-        align: left
+        # align: left
     end: "Click here <br> to see my full <br> CV"
     url: /Klara_Norden_CV.pdf
   about:
